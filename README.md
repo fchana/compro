@@ -8,6 +8,6 @@
    - 62070120 นายปิยปาณ สุขมาก
 
 ### อาจารย์ประจำวิชา
-##### รศ.ดร.ปานวิทย์ ธุวะนุติ
+   - รศ.ดร.ปานวิทย์ ธุวะนุติ
 
-![thank you}(https://giphy.com/gifs/3o6Zt6KHxJTbXCnSvu/html5)
+![thank you](https://giphy.com/gifs/3o6Zt6KHxJTbXCnSvu/html5)
