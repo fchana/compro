@@ -10,4 +10,4 @@
 ### อาจารย์ประจำวิชา
    - รศ.ดร.ปานวิทย์ ธุวะนุติ
 
-![thank you](https://giphy.com/gifs/3o6Zt6KHxJTbXCnSvu/html5)
+![Badminton](https://media0.giphy.com/media/RimTYp7pim1H2/200.webp?cid=790b7611eeced65a4318ad47a3ecf61ada0b8790d721fa8d&rid=200.webp)
