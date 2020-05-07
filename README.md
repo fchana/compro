@@ -11,4 +11,4 @@
 ### อาจารย์ประจำวิชา
    - รศ.ดร.ปานวิทย์ ธุวะนุติ
 
-![Badminton](https://media.giphy.com/media/AUc4qeZxG28lq/giphy.gif)
+![Dust](https://media.giphy.com/media/d2Z7keyUwp4rzuG4/giphy.gif)
