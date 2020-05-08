@@ -74,8 +74,6 @@
 - LiquidCystal.h
 ## Poster
 
-
-## อาจารย์ประจำวิชา
 <table>
 <thead>
 <tr>
