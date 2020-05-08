@@ -80,8 +80,8 @@
 <table>
 <thead>
 <tr>
-<th align="center"><img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Panwit.jpg" alt="" style="max-width:100%;"></a></th>
-<th align="center"><img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Kitsuchart.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Panwit.jpg" alt="" style="max-width:15%;"></a></th>
+<th align="center"><img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Kitsuchart.jpg" alt="" style="max-width:15%;"></a></th>
 </tr>
 </thead>
 <tbody>
