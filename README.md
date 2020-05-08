@@ -13,6 +13,7 @@
    - รศ.ดร.ปานวิทย์ ธุวะนุติ
 
 ## Required Components
+
 <table>
 <thead>
 <tr>
@@ -63,5 +64,31 @@
 </table>
 
 ## Library in Use
+- Time.h
+- TridentTD_Linenotify.h
+- LiquidCystal.h
+## Poster
 
+
+## Group Members
+
+
+
+
+
+## อาจารย์ประจำวิชา
+<table>
+<thead>
+<tr>
+<th align="center"><img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Panwit.jpg" alt="" style="max-width:100%;"></a></th>
+<th align="center"><img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Kitsuchart.jpg" alt="" style="max-width:100%;"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"> Asst Profressor Kitsuchart Pasupa<br>ผศ. ดร. กิติ์สุชาต พสุภา</td>
+<td align="center"> Asst Profressor Panwit Tuwanut<br>ผศ. ดร. ปานวิทย์ ธุวะนุติ</td>
+</tr>
+</tbody>
+</table>
 ![Dust](https://media.giphy.com/media/d2Z7keyUwp4rzuG4/giphy.gif)
