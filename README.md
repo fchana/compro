@@ -68,6 +68,7 @@
 - TridentTD_Linenotify.h
 - LiquidCystal.h
 ## Poster
+<p><img src="https://cdn.discordapp.com/attachments/706789429104214076/708238059782799410/Poster_CP-1.jpg" alt="" style="max-width:100%;"></p>
 
 ## อาจารย์ประจำวิชา
 
