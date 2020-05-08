@@ -6,11 +6,6 @@
 &emsp;โปรเจคเครื่องวัดฝุ่น ทำหน้าที่วัดฝุ่นในหน่อย 1 microgram/cubic meter โดยหลักการทำงานคือ sensor จะทำหน้าที่ยิง Infrared เพื่อวัดความหนาแน่นของฝุ่นแล้วส่งข้อมูลไปยัง Arduino board เป็นหน่อยของแรงดันไฟฟ้า 0-1024 โดยที่จะต้องนำไปเข้าสูตรคำนวณเพื่อให้ออกมาเป็นค่าที่ถูกต้อง
 
 ## รายชื่อผู้จัดทำ
-   - 62070037 นายเฉลิมวุฒิ ชั้นเจริญ
-   - 62070042 นายชนาธิป อมรชีวศิลปกุล
-   - 62070108 นายบริบูรณ์ ศรีเอนกราธา
-   - 62070120 นายปิยปาณ สุขมากอนันต์
-   
 |<img src="https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/96347410_272901030413496_7727012088127684608_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_eui2=AeGYPPC3vVs8JmFVVin__2wGTxkoo2NkNwFPGSijY2Q3AZFVnvfKtm5xYswE4PBxWf02eeCibVOFC0ZQJxM1N3dv&_nc_oc=AQn7QtDNbW41exjDneJiOQeSW5-kN3ypFmrHzzr9ExvI32WTnlK4EBC5X1co9O7wCIA&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent.xx&_nc_tp=6&oh=0a012116c79c342bc22ac44c20ef776d&oe=5ED9D226" width="120px" height="120px">|<img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/72843523_1215239785345622_1726860380963078144_n.jpg?_nc_cat=107&_nc_sid=174925&_nc_eui2=AeFgLkNtBgakqd26mI2dxbWVy2KdXw2ygUfLYp1fDbKBR9tFdVkLzKmsCIuL8kChQsnWUWMlNqaVTE2rIM8SrxSp&_nc_oc=AQkseVlIPAHMYuThyXWvy8UJhpSFDkv1VwqAza7zEZRJ0LsOBfrrpMR3RiGgBY9lRGg&_nc_ht=scontent.fbkk8-2.fna&oh=0bb1c62e3e520975f7ffd5f2c5d53ee2&oe=5ED95BDD" width="120px" height="120px">|<img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/37549536_1038777826297990_1612749808647274496_n.jpg?_nc_cat=110&_nc_sid=174925&_nc_eui2=AeEM3_u_Lj5YVtn6ockbN38KT9e87lVx9VNP17zuVXH1U_lFu0sk6QYQxvQ3qQ1LxTG6le3fFPbyLMx6OjXRHNbP&_nc_oc=AQmjTqnTui6kaHL4mFI2nbkh37TibQY76CNbTUujUpIIMNKsX89uWIiVl11uzlRfXV4&_nc_ht=scontent.fbkk12-4.fna&oh=c489eb9da6c7bcf45e88e3f8f1717099&oe=5EDC00F7" width="120px" height="120px">|<img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/38752158_753445171665212_4286835153382146048_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_eui2=AeGFBLIqvti-LQEAdPIzWR_PegqYiTeimS96CpiJN6KZL9akAObQaeYZ0IxLkAb55U_ciJiiUOlPSAmBq9QtSyRl&_nc_oc=AQlxuQejvpsnuAv1Rhozy20S4__48XaewtV31OomoyNlmYSUxxH5zCu3-cUHv7R6xbk&_nc_ht=scontent.fbkk8-2.fna&oh=cdefe2a62fe6c5202901ecf1725290d2&oe=5EDABC92" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|
 |นายเฉลิมวุฒิ<br>ชั้นเจริญ|นายชนาธิป<br>อมรชีวศิลปกุล|นายบริบูรณ์<br>ศรีเอนกราธา|นายปิยปาณ<br>สุขมากอนันต์|
